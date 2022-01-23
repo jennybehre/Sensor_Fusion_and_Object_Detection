@@ -32,7 +32,7 @@ In the last step I implemented the nonlinear camera measurement mode, so that th
 The tracking loop now updates all tracks with LiDAR measurements, then with camera measurements.    
 With the LiDAR and camera sensor fusion ghost tracks can be avoided. The results of the last step is shown in the following image.
 
-![image](img/Step3.png)
+![image](img/Step4.png)
 
 The results can be found in the Video_of_results.zip folder.
 
